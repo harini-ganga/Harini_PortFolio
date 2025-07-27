@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Harini G - Full Stack Developer
 
-## Getting Started
+## About Me
 
-First, run the development server:
+Full-stack developer with 1+ years of hands-on experience building scalable web applications using Java, Python, and cloud technologies. I specialize in developing HIPAA-compliant healthcare solutions and automated data pipelines that serve rural healthcare providers.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Core Expertise
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Backend Development**: Java, Python, Spring Boot, Node.js, REST APIs
+- **Frontend Technologies**: React.js, Next.js, JavaScript, TypeScript
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Google Cloud, Docker
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Healthcare Technology**: HIPAA compliance, medical data systems
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Professional Experience
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Full Stack Developer** | TAMIZH, Anna University  
+*Developed secure medical data systems with 40% improved processing efficiency*
 
-## Learn More
+**Network Systems Intern** | BSNL Telecom  
+*Optimized telecommunications infrastructure with 25% performance enhancement*
 
-To learn more about Next.js, take a look at the following resources:
+## Key Achievements
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Built healthcare platforms serving **50+ remote patients**
+- Achieved **99.9% uptime** with serverless architecture
+- Reduced manual processes by **80%** through automation
+- Improved diagnostic accuracy for **200+ patient records**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Education
 
-## Deploy on Vercel
+**Bachelor of Engineering** - Electronics and Communication  
+Loyola-ICAM College of Engineering and Technology | CGPA: 8.0/10
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📧 harinigangadharan25@gmail.com  
+📱 +91 93631 13510  
+🔗 [LinkedIn](https://linkedin.com/in/harini-g)  
+💻 [GitHub](https://github.com/harini-ganga)  
+📍 Chennai, India
+
+---
+
+*Seeking opportunities to leverage technical expertise and healthcare domain knowledge in innovative full-stack development roles.*
